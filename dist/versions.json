@@ -1,7 +1,7 @@
 {
   "emscripten": {
-    "version": "1.37.35",
-    "commit": null
+    "version": "1.38.12",
+    "commit": "0d8576c"
   },
   "libsass": {
     "version": "3.5.4",
@@ -9,7 +9,7 @@
   },
   "sassjs": {
     "version": "0.10.10",
-    "commit": "4ca6ca1",
-    "branch": "upgrade/libsass-3.5.4"
+    "commit": "4377b88",
+    "branch": "master"
   }
 }
